@@ -1,0 +1,23 @@
+body {
+	background-image: url(backgroundimage.jpg);
+	background-size: cover;
+}
+
+h1 {
+	font-style: cursive;
+	color: white;
+	font-family: 'Inconsolata', monospace;
+	font-size: 100px;
+}
+a {
+	color: white;
+	font-family: 'Inconsolata', monospace;
+}
+
+p {
+	color: white;
+	font-family: 'Inconsolata', monospace;
+	text-align: center;
+	margin: 5px 20px 5px 20px;
+	font-size: 30px;
+}
